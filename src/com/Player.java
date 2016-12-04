@@ -7,6 +7,8 @@ package com;
  * @author as
  *
  */
+
+//change for test
 public class Player {
 	private String name;
 	private double score;
